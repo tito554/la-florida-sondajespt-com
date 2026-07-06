@@ -1,0 +1,39 @@
+# Sondajespt — La Florida
+
+> Geotechnical engineering services in La Florida, Chile.
+
+## Services
+- [Aislacion Sismica](https://la-florida.sondajespt.com/aislacion-sismica/)
+- [Anclajes](https://la-florida.sondajespt.com/anclajes/)
+- [Calicatas Exploratorias](https://la-florida.sondajespt.com/calicatas-exploratorias/)
+- [Cbr Vial](https://la-florida.sondajespt.com/cbr-vial/)
+- [Cimentaciones](https://la-florida.sondajespt.com/cimentaciones/)
+- [Cimentaciones Superficiales](https://la-florida.sondajespt.com/cimentaciones-superficiales/)
+- [Densidad Cono Arena](https://la-florida.sondajespt.com/densidad-cono-arena/)
+- [Ensayo Triaxial](https://la-florida.sondajespt.com/ensayo-triaxial/)
+- [Estabilidad Taludes](https://la-florida.sondajespt.com/estabilidad-taludes/)
+- [Excavaciones Profundas](https://la-florida.sondajespt.com/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://la-florida.sondajespt.com/excavaciones-subterraneo/)
+- [Exploracion](https://la-florida.sondajespt.com/exploracion/)
+- [Geotecnia Vial](https://la-florida.sondajespt.com/geotecnia-vial/)
+- [Granulometria](https://la-florida.sondajespt.com/granulometria/)
+- [Grouting](https://la-florida.sondajespt.com/grouting/)
+- [Laboratorio In Situ](https://la-florida.sondajespt.com/laboratorio-in-situ/)
+- [Laboratorio Lab](https://la-florida.sondajespt.com/laboratorio-lab/)
+- [Limites Atterberg](https://la-florida.sondajespt.com/limites-atterberg/)
+- [Mejoramiento](https://la-florida.sondajespt.com/mejoramiento/)
+- [Monitoreo Excavaciones](https://la-florida.sondajespt.com/monitoreo-excavaciones/)
+- [Muros Contencion](https://la-florida.sondajespt.com/muros-contencion/)
+- [Pavimento Flexible](https://la-florida.sondajespt.com/pavimento-flexible/)
+- [Pavimento Rigido](https://la-florida.sondajespt.com/pavimento-rigido/)
+- [Pilotes](https://la-florida.sondajespt.com/pilotes/)
+- [Sismica](https://la-florida.sondajespt.com/sismica/)
+- [Taludes](https://la-florida.sondajespt.com/taludes/)
+- [Vibrocompactacion](https://la-florida.sondajespt.com/vibrocompactacion/)
+
+## Contact
+- Website: https://la-florida.sondajespt.com/
+
+## About
+This site provides geotechnical engineering services in La Florida, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
